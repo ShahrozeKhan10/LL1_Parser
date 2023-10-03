@@ -1,0 +1,34 @@
+		Expresssion 	 Tokens 
+
+		-----------------------------------------
+		|	int 	|	 int_DataType	|
+		-----------------------------------------
+		|	( 	|	 Arithmetic Op	|
+		-----------------------------------------
+		|	) 	|	 Arithmetic Op	|
+		-----------------------------------------
+		|	{ 	|	 Arithmetic Op	|
+		-----------------------------------------
+		|	cout 	|	 print_Data	|
+		-----------------------------------------
+		|	<< 	|	 Bitwise Op	|
+		-----------------------------------------
+		|	return 	|	 return_kword	|
+		-----------------------------------------
+
+
+		Total Check 
+Total int = 1 
+Total return = 1 
+Total cout = 1 
+
+Total Tokens = 3 
+
+
+
+		Total Check 
+Total Arithmetic = 3 
+Total Bitwise = 1 
+
+Total Tokens = 4 
+
